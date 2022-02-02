@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NewsMoney/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/NewsMoney/static/js/main.276b7a2e.chunk.js",
-    "main.js.map": "/NewsMoney/static/js/main.276b7a2e.chunk.js.map",
-    "runtime-main.js": "/NewsMoney/static/js/runtime-main.82688388.js",
-    "runtime-main.js.map": "/NewsMoney/static/js/runtime-main.82688388.js.map",
-    "static/js/2.40c756c0.chunk.js": "/NewsMoney/static/js/2.40c756c0.chunk.js",
-    "static/js/2.40c756c0.chunk.js.map": "/NewsMoney/static/js/2.40c756c0.chunk.js.map",
-    "static/js/3.9692b6ab.chunk.js": "/NewsMoney/static/js/3.9692b6ab.chunk.js",
-    "static/js/3.9692b6ab.chunk.js.map": "/NewsMoney/static/js/3.9692b6ab.chunk.js.map",
-    "index.html": "/NewsMoney/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/NewsMoney/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.40c756c0.chunk.js.LICENSE.txt": "/NewsMoney/static/js/2.40c756c0.chunk.js.LICENSE.txt"
+    "main.css": "/NewsMoney-Source-Code/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/NewsMoney-Source-Code/static/js/main.276b7a2e.chunk.js",
+    "main.js.map": "/NewsMoney-Source-Code/static/js/main.276b7a2e.chunk.js.map",
+    "runtime-main.js": "/NewsMoney-Source-Code/static/js/runtime-main.df64bb4d.js",
+    "runtime-main.js.map": "/NewsMoney-Source-Code/static/js/runtime-main.df64bb4d.js.map",
+    "static/js/2.40c756c0.chunk.js": "/NewsMoney-Source-Code/static/js/2.40c756c0.chunk.js",
+    "static/js/2.40c756c0.chunk.js.map": "/NewsMoney-Source-Code/static/js/2.40c756c0.chunk.js.map",
+    "static/js/3.9692b6ab.chunk.js": "/NewsMoney-Source-Code/static/js/3.9692b6ab.chunk.js",
+    "static/js/3.9692b6ab.chunk.js.map": "/NewsMoney-Source-Code/static/js/3.9692b6ab.chunk.js.map",
+    "index.html": "/NewsMoney-Source-Code/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/NewsMoney-Source-Code/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.40c756c0.chunk.js.LICENSE.txt": "/NewsMoney-Source-Code/static/js/2.40c756c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82688388.js",
+    "static/js/runtime-main.df64bb4d.js",
     "static/js/2.40c756c0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.276b7a2e.chunk.js"
